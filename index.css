@@ -1,0 +1,190 @@
+:root{
+	font-size: 2px;
+}
+
+.container{
+	margin-top: 5vw;
+	margin-left: 25vw;
+	width: 50vw;
+	display: flex;
+	flex-direction: column;
+	border-style: solid;
+	border-width: 1rem;
+	border-color: black;
+}
+
+.box{
+	background-color: #ffcccc;
+	width: 49vw;
+	height: 4vw;
+	color: #800000; 
+	border-style: solid;
+	border-color: white;
+	border-bottom-width: 1rem;
+	margin-left: 2rem;
+	font-size: 12rem;
+}
+
+.dw1{
+	
+	margin-left: 40vw;
+	font-size: 15rem;
+}
+.dw2{
+	
+	margin-left: 40vw;
+	font-size: 15rem;
+}
+.dw3{
+	
+	margin-left: 40vw;
+	font-size: 15rem;
+}
+.dw4{
+	
+	margin-left: 40vw;
+	font-size: 15rem;
+}
+
+.up1{
+	font-size: 15rem;
+	margin-left: 40vw;
+}
+.up2{
+	font-size: 15rem;
+	margin-left: 40vw;
+}
+.up3{
+	font-size: 15rem;
+	margin-left: 40vw;
+}
+.up4{
+	font-size: 15rem;
+	margin-left: 40vw;
+}
+
+.para1{
+	width: 49vw;
+	font-size: 8rem;
+	margin-left: 4rem;
+}
+.para2{
+	width: 49vw;
+	font-size: 8rem;
+	margin-left: 4rem;
+}
+.para3{
+	width: 49vw;
+	font-size: 8rem;
+	margin-left: 4rem;
+}
+.para4{
+	width: 49vw;
+	font-size: 8rem;
+	margin-left: 4rem;
+}
+
+
+@media only screen and (min-width: 600px) and (max-width: 925px){
+	.container{
+		margin-top: 10vw;
+		margin-left: 20vw;
+		width:60vw;
+		border-width: .5rem;
+	}
+
+	.box{
+		width: 59vw;
+		height: 7vw;
+	}
+
+	.dw1{
+	
+	margin-left: 45vw;
+	font-size: 15rem;
+	}
+	.dw2{
+	
+	margin-left: 45vw;
+	font-size: 15rem;
+	}
+	.dw3{
+	
+	margin-left: 45vw;
+	font-size: 15rem;
+	}
+	.dw4{
+	
+	margin-left: 45vw;
+	font-size: 15rem;
+	}
+
+	.up1{
+	font-size: 15rem;
+	margin-left: 45vw;
+	}
+	.up2{
+	font-size: 15rem;
+	margin-left: 45vw;
+	}
+	.up3{
+	font-size: 15rem;
+	margin-left: 45vw;
+	}
+	.up4{
+	font-size: 15rem;
+	margin-left: 45vw;
+	}
+}
+
+@media only screen and (min-width: 350px) and (max-width: 600px){
+	.container{
+		margin-top: 15vw;
+		margin-left: 3vw;
+		width: 90vw;
+		border-width: .25rem;
+	}
+
+	.box{
+		width: 89vw;
+		height: 10vw;
+	}
+
+	.dw1{
+	
+	margin-left: 65vw;
+	font-size: 15rem;
+	}
+	.dw2{
+	
+	margin-left: 65vw;
+	font-size: 15rem;
+	}
+	.dw3{
+	
+	margin-left: 65vw;
+	font-size: 15rem;
+	}
+	.dw4{
+	
+	margin-left: 65vw;
+	font-size: 15rem;
+	}
+
+	.up1{
+	font-size: 15rem;
+	margin-left: 65vw;
+	}
+	.up2{
+	font-size: 15rem;
+	margin-left: 65vw;
+	}
+	.up3{
+	font-size: 15rem;
+	margin-left: 65vw;
+	}
+	.up4{
+	font-size: 15rem;
+	margin-left: 65vw;
+	}
+}
